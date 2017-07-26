@@ -1,0 +1,2 @@
+这个模块是Django-rest-framework的demo。
+主要为了演示Django-rest-framework的功能。

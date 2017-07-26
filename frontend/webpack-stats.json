@@ -1,0 +1,11 @@
+{
+  "status": "done",
+  "chunks": {
+    "main": [
+      {
+        "name": "main-e6158db42a2def91f120.js",
+        "path": "/Users/yemenghao/Desktop/vue_virtualenv/DjangoWithVue/frontend/assets/webpack_bundles/main-e6158db42a2def91f120.js"
+      }
+    ]
+  }
+}
